@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "cipher": "AES-128-GCM",
+  "listen_port": "8386",
+  "password": "pwd12345678",
+  "plugin": "",
+  "plugin_opts": ""
+}
